@@ -1,51 +1,49 @@
-# 💫 About Me:
-Hi there! I'm a passionate **Full-Stack Developer from India**, driven by curiosity and a love for building things that make a difference.  
-
-🔭 I’m currently focused on developing **dynamic, responsive, and user-centric web applications** using the **MERN stack**.  
-🌱 I’m constantly improving my skills and currently diving deep into the world of **Generative AI**, exploring how AI can transform web experiences.  
-💬 Ask me about **React.js, Node.js, Express, or Vanilla JavaScript** — I love discussing clean code, performance, and scalable architectures.  
-⚡ I believe in **continuous learning, open-source collaboration**, and pushing the boundaries of what technology can do.  
-💡 My current goal is to merge my **full-stack expertise** with **GenAI** to create intelligent, interactive, and personalized web solutions.  
-
----
-
-## 🌐 Connect With Me:
-<p align="center">
-  <a href="https://www.instagram.com/nikhilpatil.ts/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nikhil-patil-b10b0126b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:nick1512007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-## 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats:
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NikhilPatil15&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
-</div>
-<div align="center">
+# Hey, I'm Nikhil 👋
 
+<a href="https://nikhil-patil-portfolio.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=560&lines=Full-stack+engineer+%C2%B7+Mumbai;I+build+AI+agents+that+ship+to+production;Next.js+%C2%B7+TypeScript+%C2%B7+Node+%C2%B7+LLMs" alt="Typing intro" />
+</a>
 
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=NikhilPatil15&theme=synthwave&hide_border=true" height="180em" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilPatil15&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+<p>
+  <a href="https://nikhil-patil-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nikhil-patil-b10b0126b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nick1512007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/nikhilpatil.ts/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 </div>
 
+### About
+
+Full-stack engineer who likes taking AI features from prototype to production. These days I build **AI agents and AI-search tooling**: multi-step LLM pipelines, shopping and support assistants, and dashboards that show how ChatGPT, Gemini and Google AI Overviews talk about a brand.
+
+- 🛠️ **Day to day:** Next.js, TypeScript, Supabase/Postgres, background workflows (Upstash), Claude/OpenAI/Gemini APIs
+- 🤖 **Into:** agent design, retrieval (pgvector), web data pipelines (Firecrawl), evals that keep LLM output honest
+- 📍 Mumbai, India
+
+### Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Support Agent**](https://github.com/NikhilPatil15/Support-agent) | AI shopping + support assistant for a brand: semantic product search over a Shopify catalog, order tracking with privacy checks, embeddable chat bubble | TypeScript · LLMs · Shopify |
+| [**Firecrawl Agent**](https://github.com/NikhilPatil15/Firecrawl-agent) · [live](https://firecrawl-agent.vercel.app) | Autonomous shopping agent: visits any online store, works out how it's built (llms.txt, store APIs, browser), finds products and places the order | Next.js · Firecrawl · LLMs |
+| [**MeetAI**](https://github.com/NikhilPatil15/meet-ai) · [live](https://meet-ai.vercel.app) | Online meetings with live transcription and automatic AI summaries | Next.js · TypeScript · AI |
+| [**EduQuest**](https://github.com/NikhilPatil15/EduQuest) · [live](https://edu-quest-omega.vercel.app) | Pokémon-inspired gamified learning platform | JavaScript · React |
+| [**VideoHub**](https://github.com/NikhilPatil15/VideoHub-Backend) | Video platform: auth, uploads and streaming API, with a [TypeScript frontend](https://github.com/NikhilPatil15/Videohub-Frontend) | Node · Express · MongoDB |
+
+### Tech
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,tailwind,postgres,supabase,mongodb,redis,docker,vercel,git&perline=15" alt="Tech stack" />
+</p>
+
+### GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NikhilPatil15&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilPatil15&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top languages" />
+  <br/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=NikhilPatil15&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
