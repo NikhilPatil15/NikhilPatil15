@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="190" viewBox="0 0 490 190">
+<defs>
+  <linearGradient id="beduquest" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="490" y2="190">
+    <stop offset="0" stop-color="#9ece6a"/><stop offset="0.5" stop-color="#ffffff10"/><stop offset="1" stop-color="#9ece6a"/>
+    <animateTransform attributeName="gradientTransform" type="rotate" values="0 245.0 95.0;360 245.0 95.0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
+  <radialGradient id="geduquest" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(40 30) scale(260)">
+    <stop offset="0" stop-color="#9ece6a" stop-opacity=".22"/><stop offset="1" stop-color="#9ece6a" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<style>
+  .h { font: 700 22px 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; fill: #e6e9f5; }
+  .d { font: 400 15px 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; fill: #8b93b8; }
+  .chip { font: 600 12px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #e6e9f5; }
+  .live { font: 700 12px 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  .e { font: 26px 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+</style>
+<rect x="1" y="1" width="488" height="188" rx="16" fill="#111628"/>
+<rect x="1" y="1" width="488" height="188" rx="16" fill="url(#geduquest)"/>
+<rect x="1" y="1" width="488" height="188" rx="16" fill="none" stroke="url(#beduquest)" stroke-width="2"/>
+<text x="24" y="54" class="e">🎮</text>
+<text x="64" y="52" class="h">EduQuest</text>
+
+<text x="24" y="98" class="d">Pokémon-inspired gamified learning that</text><text x="24" y="120" class="d">makes studying feel like an adventure.</text>
+<rect x="24.0" y="146" width="59.0" height="24" rx="12" fill="#ffffff0d" stroke="#ffffff22"/><text x="53.5" y="162" text-anchor="middle" class="chip">React</text><rect x="91.0" y="146" width="96.0" height="24" rx="12" fill="#ffffff0d" stroke="#ffffff22"/><text x="139.0" y="162" text-anchor="middle" class="chip">JavaScript</text><rect x="195.0" y="146" width="51.6" height="24" rx="12" fill="#ffffff0d" stroke="#ffffff22"/><text x="220.8" y="162" text-anchor="middle" class="chip">Game</text>
+</svg>
