@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="196" viewBox="0 0 490 196">
+<style>
+  .t { font: 400 24px Georgia, 'Times New Roman', serif; fill: #2d3a34; }
+  .i { font: 400 22px Georgia, 'Times New Roman', serif; fill: #ffffff; }
+  .d { font: 400 15px 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; fill: #5d6862; }
+  .g { font: 600 11px 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; fill: #8b918a; letter-spacing: 1.6px; }
+  .a { font: 400 20px 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; fill: #8b918a; }
+</style>
+<rect x="1" y="1" width="488" height="194" rx="18" fill="#f6f1e7" stroke="#e6dccb"/>
+<rect x="28" y="28" width="42" height="42" rx="12" fill="#8fa98b"/>
+<text x="49" y="57" text-anchor="middle" class="i">S</text>
+<text x="86" y="58" class="t">Support Agent</text>
+<text x="28" y="112" class="d">A shopping and support assistant for one brand.</text><text x="28" y="134" class="d">Finds products, checks orders, lives in a chat bubble.</text>
+<text x="28" y="172" class="g">TYPESCRIPT  ·  LLMS  ·  SHOPIFY</text>
+<text x="458" y="58" text-anchor="end" class="a">→</text>
+</svg>

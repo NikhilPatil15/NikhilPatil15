@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150">
-<style>
-  .n { font: 400 44px Georgia, 'Times New Roman', serif; fill: #e8e6e1; letter-spacing: .3px; }
-  .s { font: 400 17px Georgia, 'Times New Roman', serif; font-style: italic; fill: #9a9d98; }
-</style>
-<text x="0" y="62" class="n">Nikhil Patil</text>
-<rect x="2" y="84" width="44" height="2" rx="1" fill="#8fa98b"/>
-<text x="0" y="122" class="s">full-stack engineer, mostly building with LLMs · Mumbai</text>
-</svg>
